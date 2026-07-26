@@ -18,7 +18,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
-**ZeeshanGul69/ZeeshanGul69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZeeshanGul404/ZeeshanGul404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
